@@ -1,1 +1,9 @@
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+Allow: /
 
+User-agent: *
+Allow: /
+
+Sitemap: http://www.hoki188.ophscounseling.com/sitemap.xml
